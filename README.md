@@ -1,6 +1,7 @@
 # Inteligencia Artificial - Proyecto Final
 
 [Click Aquí para ver el Proyecto Final](Reporte Proyecto Final IA.pdf)
+This site was built using [GitHub Pages](https://pages.github.com/).
 
 Integrantes: 
 
