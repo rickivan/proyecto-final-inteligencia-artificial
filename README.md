@@ -1,6 +1,7 @@
 # Inteligencia Artificial - Proyecto Final
 
-[Click Aquí para ver el Proyecto Final](/"Reporte Proyecto Final IA.pdf")
+[Click Aquí para ver el Proyecto Final](Reporte Proyecto Final IA.pdf)
+
 
 
 Integrantes: 
