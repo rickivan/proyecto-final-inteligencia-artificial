@@ -1,5 +1,7 @@
 # Inteligencia Artificial - Proyecto Final
 
+[Click Aquí para ver el Proyecto Final](Reporte Proyecto Final IA.pdf)
+
 Integrantes: 
 
 * Miroslava Acevedo Romero - 423007334
